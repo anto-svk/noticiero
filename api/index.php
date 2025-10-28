@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -54,8 +53,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">Internacional</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -75,11 +74,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $internacional['imagen']; ?>" alt="<?php echo $internacional['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-success">Nacional</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -99,6 +99,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $nacional['imagen']; ?>" alt="<?php echo $nacional['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -111,8 +112,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-secondary">Economía</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -132,11 +133,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $economia['imagen']; ?>" alt="<?php echo $economia['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-warning">Opinión</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -156,6 +158,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $opinion['imagen']; ?>" alt="<?php echo $opinion['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -168,8 +171,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">Tecnología</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -189,11 +192,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $tecnologia['imagen']; ?>" alt="<?php echo $tecnologia['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-success">Ciencia</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -213,6 +217,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $ciencia['imagen']; ?>" alt="<?php echo $ciencia['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -225,8 +230,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-secondary">Cultura</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -246,11 +251,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $cultura['imagen']; ?>" alt="<?php echo $cultura['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-warning">Gente</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -270,6 +276,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $gente['imagen']; ?>" alt="<?php echo $gente['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -283,8 +290,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-4">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">Deportes</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -304,11 +311,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $deportes['imagen']; ?>" alt="<?php echo $deportes['titulo']; ?>" style="width: 150px; height: 200px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-success">Televisión</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -328,12 +336,13 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $television['imagen']; ?>" alt="<?php echo $television['titulo']; ?>" style="width: 150px; height: 200px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
-              <strong class="d-inline-block mb-2 text-success">Televisión</strong>
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-success">Video</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
                   <?php
@@ -352,6 +361,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $video['imagen']; ?>" alt="<?php echo $video['titulo']; ?>" style="width: 150px; height: 200px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -365,8 +375,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-4">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">Formación</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -386,11 +396,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $formacion['imagen']; ?>" alt="<?php echo $formacion['titulo']; ?>" style="width: 150px; height: 200px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-success">Empleo</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -410,11 +421,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $empleo['imagen']; ?>" alt="<?php echo $empleo['titulo']; ?>" style="width: 150px; height: 200px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-success">Sociedad</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -434,6 +446,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $sociedad['imagen']; ?>" alt="<?php echo $sociedad['titulo']; ?>" style="width: 150px; height: 200px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -446,8 +459,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">OpenStack</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -467,11 +480,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $openstack['imagen']; ?>" alt="<?php echo $openstack['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-success">Git</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -491,6 +505,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $git['imagen']; ?>" alt="<?php echo $git['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -503,8 +518,8 @@
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-secondary">Contenedores</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -524,11 +539,12 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $contenedores['imagen']; ?>" alt="<?php echo $contenedores['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-6">
-          <div class="card flex-md-row mb-4 shadow-sm ">
-            <div class="card-body d-flex flex-column align-items-start col-md-12">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-warning">OpenShift</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
@@ -548,6 +564,7 @@
                 ?>
               </p>
             </div>
+            <img class="card-img-right flex-auto d-none d-md-block" src="<?php echo $openshift['imagen']; ?>" alt="<?php echo $openshift['titulo']; ?>" style="width: 200px; height: 250px; object-fit: cover;">
           </div>
         </div>
       </div>
@@ -579,4 +596,3 @@
     </script>
   </body>
 </html>
-
