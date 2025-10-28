@@ -7,6 +7,6 @@ $openshift = [
     "titulo" => "Red Hat OpenShift 4.15 mejora la automatización Kubernetes",
     "autor" => "Sandra López",
     "resumen" => "La nueva versión ofrece integración mejorada con servicios cloud y mayor eficiencia operativa.",
-    "imagen" => "../img/openshift.jpg"
+    "imagen" => "img/openshift.jpg"
 ];
 ?>

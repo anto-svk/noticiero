@@ -7,6 +7,6 @@ $formacion = [
     "titulo" => "Universidades lanzan programas gratuitos de Python y IA",
     "autor" => "Daniel Morales",
     "resumen" => "Cursos online permitirán a estudiantes y profesionales aprender programación y machine learning sin costo.",
-    "imagen" => "../img/formacion.jpg"
+    "imagen" => "img/formacion.jpg"
 ];
 ?>

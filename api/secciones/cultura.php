@@ -7,6 +7,6 @@ $cultura = [
     "titulo" => "Museo del Prado inaugura exposición sobre el Renacimiento",
     "autor" => "Laura Fernández",
     "resumen" => "La muestra reúne más de 100 obras maestras de artistas italianos y españoles del siglo XVI.",
-    "imagen" => "../img/cultura.jpg"
+    "imagen" => "img/cultura.jpg"
 ];
 ?>

@@ -7,6 +7,6 @@ $tecnologia = [
     "titulo" => "Apple presenta iPhone 16 con procesador cuántico",
     "autor" => "Andrés Castro",
     "resumen" => "El nuevo smartphone promete velocidades sin precedentes y batería que dura una semana completa.",
-    "imagen" => "../img/tecnologia.jpg"
+    "imagen" => "img/tecnologia.jpg"
 ];
 ?>

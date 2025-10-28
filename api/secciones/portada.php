@@ -7,6 +7,6 @@ $portada = [
     "titulo" => "2025: El año de la inteligencia artificial generativa",
     "autor" => "Redacción",
     "resumen" => "La tecnología IA transforma industrias, desde la medicina hasta el entretenimiento, marcando un antes y después.",
-    "imagen" => "../img/portada.jpg"
+    "imagen" => "img/portada.jpg"
 ];
 ?>

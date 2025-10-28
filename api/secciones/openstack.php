@@ -7,6 +7,6 @@ $openstack = [
     "titulo" => "OpenStack Summit revela innovaciones en cloud computing",
     "autor" => "Ricardo Vega",
     "resumen" => "La conferencia presentó soluciones para gestión multi-nube y optimización de recursos virtualizados.",
-    "imagen" => "../img/openstack.jpg"
+    "imagen" => "img/openstack.png"
 ];
 ?>

@@ -7,6 +7,6 @@ $ciencia = [
 "titulo" => "Descubren nueva especie de dinosaurio en la Patagonia",
 "autor" => "Dr. Carlos Mendoza",
 "resumen" => "Paleontólogos argentinos hallaron restos fósiles de un carnívoro gigante que habitó la región hace 90 millones de años",
-"imagen" => "../img/ciencia.jpeg"
+"imagen" => "img/ciencia.jpeg"
 ];
 ?>

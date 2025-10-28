@@ -7,6 +7,6 @@ $nacional = [
     "titulo" => "Gobierno anuncia inversión en infraestructura de transporte",
     "autor" => "Jorge Navarro",
     "resumen" => "El plan incluye la construcción de 500 km de carreteras y modernización del sistema ferroviario.",
-    "imagen" => "../img/nacional.jpg"
+    "imagen" => "img/nacional.jpg"
 ];
 ?>

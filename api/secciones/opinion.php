@@ -7,6 +7,6 @@ $opinion = [
     "titulo" => "La inteligencia artificial no reemplazará el pensamiento crítico",
     "autor" => "Javier Méndez",
     "resumen" => "A pesar de los avances tecnológicos, la capacidad humana de analizar, cuestionar y reflexionar sigue siendo insustituible.",
-    "imagen" => "../img/opinion.jpg"
+    "imagen" => "img/opinion.jpg"
 ];
 ?>

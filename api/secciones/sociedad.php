@@ -7,6 +7,6 @@ $sociedad = [
     "titulo" => "Programa de reciclaje reduce residuos urbanos en 40%",
     "autor" => "Elena Jiménez",
     "resumen" => "Iniciativa ciudadana logra transformar hábitos de consumo y mejorar la sostenibilidad ambiental.",
-    "imagen" => "../img/sociedad.jpg"
+    "imagen" => "img/sociedad.jpg"
 ];
 ?>

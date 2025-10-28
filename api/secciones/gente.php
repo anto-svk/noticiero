@@ -7,6 +7,6 @@ $gente = [
     "titulo" => "Actriz española gana premio en el Festival de Cannes",
     "autor" => "Carmen Delgado",
     "resumen" => "Penélope Cruz recibió el galardón a Mejor Actriz por su interpretación en el drama 'Horizontes'.",
-    "imagen" => "../img/gente.jpg"
+    "imagen" => "img/gente.jpg"
 ];
 ?>
