@@ -7,6 +7,6 @@ $contenedores = [
     "titulo" => "Docker lanza nueva versión con mejoras de seguridad",
     "autor" => "Ana Martínez",
     "resumen" => "La actualización incluye parches críticos y nuevas funcionalidades para la gestión de contenedores en producción.",
-    "imagen" => "img/contenedores.jpg"
+    "imagen" => "/img/contenedores.jpg"
 ];
 ?>
